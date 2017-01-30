@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+header{
+  background: tomato;
+}
+.notice{
+  background: green;
+}
+h2{
+  background: aquamarine;
+}
+.kittens img{
+  display: inline;
+  float: left;
+  margin: initial;
+  width: initial;
+  border: 2px solid;
+  border-radius: 15px 50px 30px;
+}
+.kitten img{
+  border: 2px solid;
+  border-radius: 30px;
+}
